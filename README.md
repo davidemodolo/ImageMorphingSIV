@@ -23,6 +23,8 @@ Look for 3 high-similarity points and morph on them. It requires two images as n
 ### Face detection
 Using DLIB library and shape_predictor_68_face_landmarks.dat to recognise faces in images and morph. It requires two images as numpy array.
 
+It requires shape_predictor_68_face_landmarks.dat file from [here](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
+
 Faces are taken from [This Person Does Not Exist](https://this-person-does-not-exist.com/)
 
 ## Anaconda Environment
