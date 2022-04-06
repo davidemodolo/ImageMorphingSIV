@@ -9,7 +9,7 @@ The [presentation](https://docs.google.com/presentation/d/1DMnK3zVJN2qQJb5nfwMyd
 Since functions we use require two images of the same size, we wrote a library that edit one or both of them with a minimum (to none) information loss.
 
 ### Fading
-It starts explaining the easier approach to image morphing: the Fading Effect. It requires two Pillow Images
+We started explaining the easier approach to image morphing: the Fading Effect. It requires two Pillow Images
 
 ### Morphing Function
 Function to compute the affine transformation steps. It requires two images as numpy array.
