@@ -1,5 +1,5 @@
 # Image Morphing - SIV Project
-by Davide Modolo & Edoardo Maines
+by Davide Modolo
 
 ## Presentation
 The [presentation](https://docs.google.com/presentation/d/1DMnK3zVJN2qQJb5nfwMydtcnt2dF2MUdNUQ3A90HNE4/edit?usp=sharing) aims to explain what is Image Morphing and what is it used for. It also explains how our notebook works.
